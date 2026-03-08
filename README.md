@@ -64,6 +64,14 @@ BUYS = {
 
 We get information like:
 
+![AMZN Chart](example_graphs/AMZN.png)
+
+Or
+
+![Combined portfolio](example_graphs/COMBINED_PORTFOLIO.png)
+
+and overview information like:
+
 |    | Ticker   | Currency   |   Shares |   Avg Buy Price |   Total Cost |   Cost (EUR) |   Current Price |   Market Value |   Value (EUR) |      P/L |   P/L (EUR) |   P/L % |
 |---:|:---------|:-----------|---------:|----------------:|-------------:|-------------:|----------------:|---------------:|--------------:|---------:|------------:|--------:|
 |  0 | MSFT     | USD        |       24 |          459.64 |     11059    |      9731.96 |          408.96 |        9815.04 |       8637.24 | -1244    |    -1094.72 |   -11.2 |
