@@ -1,5 +1,5 @@
 # Portefairy
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/barrynauta/portefee/blob/main/portefee.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/barrynauta/portefee/blob/main/portefairy.ipynb)
 
 A small pet project that I use to learn coding using dataframes, data visualisation
 
